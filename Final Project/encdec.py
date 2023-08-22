@@ -28,7 +28,7 @@ f1.pack(side=LEFT)
 localtime = time.asctime(time.localtime(time.time()))
 
 lblInfo = Label(Tops, font=('helvetica', 50, 'bold'),
-                text="SECRET MESSAGING \n CODE WORD",
+                text="SECRET MESSAGING \n Encryption & Decryption ",
                 fg="Black", bd=10, anchor='w')
 
 lblInfo.grid(row=0, column=0)
